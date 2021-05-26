@@ -33,7 +33,7 @@
 
 * [testing.fetchgoogleapi.workers.dev/](https://testing.fetchgoogleapi.workers.dev/)
 
-## How to
+## How To
 
 * Stable Release `2.0.18` on generator.driveindex.ga
 * Beta Version (Latest) - [generator.driveindex.ga](https://generator.driveindex.ga) (Dark Theme Available)
